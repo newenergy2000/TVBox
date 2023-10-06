@@ -681,6 +681,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/newenergy2000/TV/main/jar/fm0803.jar"
-//"spider": "https://ghproxy.com/https://raw.githubusercontent.com/newenergy2000/TV/main/jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"  
+//"spider": "https://ghproxy.com/https://raw.githubusercontent.com/newenergy2000/TV/main/jar/fm0803.jar"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/newenergy2000/TV/main/jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"  
 }
