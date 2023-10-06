@@ -31,6 +31,20 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
     },
     {
+      "key":"玩偶",
+      "name":"弹幕┃玩偶",
+      "type":3,
+      "api":"csp_Wogg",
+      "searchable":1,
+      "filterable":1,
+      "changeable":1,
+      "ext":{
+        "token":"http://127.0.0.1:9978/file/tvfan/token.txt",
+        "filter":"https://raw.fastgit.org/gaotianliuyun/gao/master/json/wogg.json",
+        "danmu":true},
+      "jar":"https://raw.fastgit.org/gaotianliuyun/gao/master/jar/928.jar;md5;7c4e630d2991bdc5ac8089b963b0d98e",
+      "timeout":30},
+    {
       "key": "Bili",
       "name": "🅱┃哔哔┃合集",
       "type": 3,
