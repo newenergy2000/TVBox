@@ -39,7 +39,27 @@
       },
       "jar":"./jar/XBPQ.jar"
     },
-
+    {
+      "key":"SMTV",
+      "name":"色迷TV",
+      "type":3,
+      "changeable":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"./jar/XBPQ.jar",
+      "api":"csp_XBPQ",
+      "ext": {
+        "直接播放":"1",
+        "数组":"class=\"col-xs-6 col-md-3\">&&</div>",
+        "图片":"style=\"background-image: url('&&')\"",
+        "链接":"href=\"&&\"",
+        "链接前缀":"https://hsex.icu/",
+        "搜索url":"https://hsex.icu/search.htm?search={wd}&sort=new",
+        "分类":"周榜$top7#月榜$top#5分钟$5min#10分钟$long",
+        "分类url":"https://hsex.icu/{cateId}_list-{catePg}.htm;;RC"
+        }
+    },
     {
       "key": "秒播影院",
       "name": "🍓┃秒播┃影院",
