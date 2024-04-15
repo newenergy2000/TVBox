@@ -418,6 +418,7 @@ CGTN纪录,http://zteres.sn.chinamobile.com:6060/000000001000/711464783776510405
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰资讯,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 凤凰资讯,http://113.117.74.19:8081/hls/36/index.m3u8
