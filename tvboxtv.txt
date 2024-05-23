@@ -23,6 +23,7 @@ CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$
 CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8$5.5M_1080
 CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8$4.1M_1080
 CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8$1.6M_720
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8$5.5M_1080
 CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$4.0M_1080
 CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8$5.5M_1080
